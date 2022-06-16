@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/PointAndClick.unity
+    guid: 0ebc92d8fae274941a6587c16101514d
+  - enabled: 0
+    path: Assets/Scenes/PilihanGanda.unity
+    guid: 786656d4ec798b642918e1742193910c
+  - enabled: 0
+    path: Assets/Scenes/Scene_Final/MainMenu.unity
+    guid: 6fafa451a0cc58c4a99c475ea039f7fd
+  - enabled: 0
+    path: Assets/Scenes/Demo/Kelas Dosen.unity
+    guid: 29edfe147ec260246bd202a7823bba23
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PilihanGanda 1.unity
+    guid: 6e146c0fdf24bbc46b0fb2b52be4d63a
+  - enabled: 1
+    path: Assets/Scenes/Demo/Yogs/MainMenuWithDB.unity
+    guid: dabdc1c5e45679c4fbb7e0f64d720b65
+  - enabled: 1
+    path: Assets/Scenes/Demo/Yogs/Kelas Dosen with database.unity
+    guid: b2c82fea2da49e143bdf26e38d6d383d
+  m_configObjects: {}

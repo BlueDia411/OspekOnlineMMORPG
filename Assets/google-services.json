@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508681998433",
+    "firebase_url": "https://cobawebinput-default-rtdb.firebaseio.com",
+    "project_id": "cobawebinput",
+    "storage_bucket": "cobawebinput.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508681998433:android:c858c01ec74ca6354c1a20",
+        "android_client_info": {
+          "package_name": "com.TA.UNPAS.OspekOnline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508681998433-7v90u0b1uodaee4e7o1i1ft2r6ftul79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIvtC6sWt7T6pmNdaV7LO-rsCH8rx1qmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508681998433-7v90u0b1uodaee4e7o1i1ft2r6ftul79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
